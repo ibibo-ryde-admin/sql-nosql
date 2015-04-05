@@ -7,6 +7,7 @@
     "test": ""
   },
   "dependencies": {
+    "express": "*"
     "underscore": "=1.4.3",
     "forever": "=0.10.0",
     "async": "~0.2.7",
