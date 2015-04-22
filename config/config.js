@@ -3,12 +3,12 @@
 var config = {
   app: {
     db: {
-      driver: "",
-      host: "",
-      port: "",
+      driver: "mongodb",
+      host: "localhost",
+      port: 27017,
       username: "",
       password: "",
-      database: ""
+      database: "ryde"
     }
   },
   sync: {
